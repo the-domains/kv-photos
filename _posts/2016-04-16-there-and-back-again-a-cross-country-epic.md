@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T17:02:10.172Z'
+datePublished: '2016-08-11T17:02:10.189Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 isBasedOnUrl: 'https://alphauniverse.com/stories/there-and-back-again--a-cross-country-epic/'
@@ -17,7 +17,7 @@ keywords:
   - garment
 related: []
 author: []
-dateModified: '2016-08-11T17:02:07.385Z'
+dateModified: '2016-08-11T17:02:07.942Z'
 title: 'There & Back Again: A Cross-Country Epic'
 app_links: []
 publisher:
