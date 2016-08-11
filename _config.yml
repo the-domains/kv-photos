@@ -1,4 +1,3 @@
-layout_spectrum: 0.6099348720163107
 typography_spectrum: 0.10076412023045123
 color:
   brandStrength: 0.7585384824778885
@@ -11,6 +10,12 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.6099348720163107
+author:
+  name: Kristen VonBerg
+  email: khvonberg@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/167be9b8-c624-43f1-9b51-3d017e5a5e28.png
 name: KV Photos
 navigation:
   - name: Hot Colors for fashion
