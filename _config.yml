@@ -12,3 +12,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
 name: KV Photos
+navigation:
+  - name: Hot Colors for fashion
+    url: 'http://www.pantone.com/color-of-the-year-2016?from=topNav'
+    type: external
