@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T17:02:10.183Z'
+datePublished: '2016-08-11T17:02:10.195Z'
 sourcePath: _posts/2016-04-15-updating-las-historic-hollywood-roosevelt-hotel.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/updating-the-hollywood-roosevelt-hotel-la'
@@ -31,7 +31,7 @@ related:
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-11T17:02:07.513Z'
+dateModified: '2016-08-11T17:02:07.799Z'
 title: Updating LA's Historic Hollywood Roosevelt Hotel
 app_links: []
 publisher:
